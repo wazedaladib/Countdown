@@ -1,11 +1,7 @@
+
+
+
 let eidWill = "2 May 2022";
-
-
-
-
-
-
-
 
 function countDown (){
     
@@ -27,13 +23,7 @@ function countDown (){
      minDiv.innerHTML=minutes;
      const secDiv =document.getElementById("second");
      secDiv.innerHTML=seconds;
-
-
-
-
-
-    console.log(days, hours ,minutes ,seconds );
-    
+        
 }
 
 countDown ();
