@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
+    background-color:#8A659D;
 }
 .container{
     margin-top: 100px;
@@ -17,6 +18,7 @@
 .section{
     display: flex;
     margin: 5px;
+    
 }
 .section2{
     padding-top: 100px;
@@ -36,10 +38,13 @@
     padding: 20px;
     background: rgb(0,0,0,.25);
     margin: 20px;
+    color: bisque;
     border-radius: 15px;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
   
 }
 .timezone > span{
     align-items: center;
     justify-content: center;
+    color: seashell;
 } 
