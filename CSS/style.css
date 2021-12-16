@@ -30,21 +30,21 @@
   
 }
 .time{
-  
-    text-align: center;
+      text-align: center;
+      color: rgb(230, 230, 1);
 }
 .timezone{
     width: 80px;
     padding: 20px;
-    background: rgb(0,0,0,.25);
+  background-color: teal;
     margin: 20px;
     color: bisque;
     border-radius: 15px;
-    box-shadow: 3px 3px red, -1em 0 .4em olive;
+    box-shadow: 3px 3px red, -.5em 0 .5em olive;
   
 }
 .timezone > span{
     align-items: center;
     justify-content: center;
-    color: seashell;
+   
 } 
